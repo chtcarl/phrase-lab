@@ -8,3 +8,6 @@ A static site that plays short clips from the official YouTube upload of an epis
 
 To add an episode, write `episodes/s1e2.json` in the same shape and add it to `episodes/index.json`.
 Links to a single phrase look like `#s1e1/see-your-point`.
+
+See `NEXT_EPISODE.md` for how to add an episode, and `CLAUDE.md` for the full format and rules.
+Checks: `python3 tests/validate.py episodes/s1e1.json` and `node tests/check.js http://localhost:8766/ s1e1`.
