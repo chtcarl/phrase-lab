@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Phrase Lab</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&family=Nunito+Sans:opsz,wght@6..12,400;6..12,600;6..12,700&display=swap">
+<link rel="stylesheet" href="styles.css?v=7">
+</head>
+<body>
+<header class="top">
+  <div class="top-inner">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true">▶</span>
+      <div>
+        <h1>Phrase Lab</h1>
+        <p class="sub" id="episode-sub">Loading episode…</p>
+      </div>
+    </div>
+    <div class="top-controls">
+      <label class="sr-only" for="episode-select">Episode</label>
+      <select id="episode-select"></select>
+      <div class="size" role="group" aria-label="Text size">
+        <button id="fs-down" class="ctl" type="button" title="Smaller text">A−</button>
+        <button id="fs-up" class="ctl" type="button" title="Bigger text">A+</button>
+      </div>
+      <button id="btn-recap" class="ctl" type="button">🖨 Recap</button>
+      <div class="mode-switch" role="tablist" aria-label="Mode">
+        <button id="tab-learn" role="tab" aria-selected="true" class="on">Learn</button>
+        <button id="tab-practice" role="tab" aria-selected="false">Practice</button>
+        <button id="tab-tone" role="tab" aria-selected="false">Tone game</button>
+      </div>
+    </div>
+  </div>
+</header>
+<div id="zoom-tip" class="tip" hidden>
+  <p><strong>Teaching on Zoom?</strong> When you click <em>Share Screen</em>, tick <strong>Share sound</strong> at the bottom of the share window. Without it, your student sees the clip but can't hear it.</p>
+  <button id="tip-close" class="ctl" type="button">Got it</button>
+</div>
+
+<main class="layout">
+  <section class="stage" aria-label="Player and lesson">
+    <div class="player-wrap">
+      <div id="player" aria-label="Episode player"></div>
+    </div>
+    <div class="controls" aria-label="Clip controls">
+      <button id="btn-replay" class="ctl primary" type="button" title="Replay clip (R)">↺ Replay</button>
+      <button id="btn-loop" class="ctl" type="button" aria-pressed="false" title="Loop clip (L)">⟳ Loop</button>
+      <div class="speed" role="group" aria-label="Speed">
+        <button class="ctl spd on" data-rate="1" type="button">1×</button>
+        <button class="ctl spd" data-rate="0.75" type="button">0.75×</button>
+        <button class="ctl spd" data-rate="0.5" type="button">0.5×</button>
+      </div>
+      <span id="clip-status" class="status" aria-live="polite"></span>
+    </div>
+
+    <!-- LEARN VIEW -->
+    <article id="lesson" class="lesson"></article>
+
+    <!-- PRACTICE VIEW -->
+    <article id="practice" class="practice" hidden></article>
+
+    <!-- TONE GAME VIEW -->
+    <article id="tone" class="practice" hidden></article>
+  </section>
+
+  <aside class="list-panel" aria-label="All expressions">
+    <div class="list-head">
+      <label class="sr-only" for="search">Search expressions</label>
+      <input id="search" type="search" placeholder="Search phrases, meanings, lines…" autocomplete="off">
+      <div class="chips" id="story-chips" role="group" aria-label="Story filter"></div>
+      <div class="list-meta"><label class="check"><input type="checkbox" id="hide-done"> Hide done</label><span id="list-count" class="status"></span></div>
+    </div>
+    <ol id="expr-list" class="expr-list"></ol>
+    <p id="list-empty" class="empty" hidden>No match. Try another word.</p>
+  </aside>
+</main>
+
+<section id="recap" class="recap" hidden aria-label="Recap"></section>
+<div id="saved" class="saved" role="status" aria-live="polite"></div>
+
+<footer class="foot">
+  <details id="progress-box">
+    <summary>Progress &amp; backup</summary>
+    <div id="progress-body"></div>
+  </details>
+  <details id="about">
+    <summary>Notes for the teacher</summary>
+    <div id="about-body"></div>
+  </details>
+</footer>
+
+<script src="app.js?v=7"></script>
+<script src="https://www.youtube.com/iframe_api"></script>
+</body>
+</html>
