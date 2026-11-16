@@ -5,6 +5,12 @@
       "file": "episodes/s1e1.json",
       "label": "S1 E1",
       "title": "Rollercoaster + Candace Loses Her Head"
+    },
+    {
+      "id": "s1e2",
+      "file": "episodes/s1e2.json",
+      "label": "S1 E2",
+      "title": "The Fast and the Phineas + Lawn Gnome Beach Party of Terror"
     }
   ]
 }

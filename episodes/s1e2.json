@@ -1,0 +1,2426 @@
+{
+  "id": "s1e2",
+  "show": "Phineas and Ferb",
+  "label": "S1 E2",
+  "videoId": "NNOkMRw78t8",
+  "videoTitle": "The Backyard Beach Episode | S1 E2 | Full Episode | Phineas and Ferb | @disneychannel (Disney Channel Animation)",
+  "clipPadding": {
+    "start": 0.5,
+    "end": 1.0
+  },
+  "sources": [
+    "Timing: official Disney Channel Animation upload on YouTube (video NNOkMRw78t8), timed English captions",
+    "Wording and speakers: Phineas and Ferb Wiki (Fandom) transcripts for The Fast and the Phineas and Lawn Gnome Beach Party of Terror"
+  ],
+  "stories": [
+    {
+      "id": "fast",
+      "title": "The Fast and the Phineas",
+      "range": "0:00–11:45"
+    },
+    {
+      "id": "gnome",
+      "title": "Lawn Gnome Beach Party of Terror",
+      "range": "11:46–22:30"
+    }
+  ],
+  "notes": [
+    "Every clip gets 0.5 s extra at the start and 1 s at the end (clipPadding), because caption times run ahead of the audio.",
+    "Some lines sit in the middle of a long caption chunk, so their start or end is an estimate. Clips may include one extra line.",
+    "Caption fixes (from Fandom): Isabella says \"Whatcha doin'?\" (captions: \"What ya/What you doin'\"). The radio DJ is Stanky Dog (captions: \"Stinky Dog\"). Buford says \"Dinner-bell\" (captions: \"Jennabelle\"). Candace talks to Stacy about Suzy (captions: \"Sissy\", \"Susie\"). Captions call Buford \"Von Stomp\". Fandom says \"Van Stomm\".",
+    "Running gags from S1 E1: \"Whatcha doin'?\", \"Aren't you a little young…? Yes. Yes, I am.\" and Candace \"in charge\". New ones here: \"so busted\" and \"Hey, where's Perry?\"",
+    "Dropped because the YouTube captions don't include the line (covered by music or sound effects): Mom's stereo/\"Mom, hurry up!\" and the dandruff ad (5:22), Phineas \"Ferb? Hello?\" (7:02), Stacy's \"I just saw Jeremy…\" and Candace's \"Jeremy's here? Gotta go!\" (13:54). Also left out: most song lyrics, and \"I've got 'em now\" (6:48), where Fandom and the captions disagree.",
+    "One item comes from the end-credits song (mad skill, marked Sung). It is good for meaning but not ideal for pronunciation."
+  ],
+  "expressions": [
+    {
+      "n": 1,
+      "id": "tricked-out",
+      "story": "fast",
+      "type": "Slang",
+      "phrase": "trick it out",
+      "clips": [
+        {
+          "start": "1:26",
+          "end": "1:35",
+          "lines": [
+            [
+              "Candace",
+              "That's better. What are you doing to Mom's car?!"
+            ],
+            [
+              "Phineas",
+              "We tricked it out!"
+            ]
+          ],
+          "hl": "We tricked it out!"
+        }
+      ],
+      "meaning": "\"Trick out\" = add lots of cool, fancy extras to something, like a car, bike or room.",
+      "listen": "Candace's voice jumps up high on \"Mom's car\". She's shocked.",
+      "example": "I tricked out my bike with lights and a horn.",
+      "practice": "Tell your teacher how you would make your bedroom super cool.",
+      "toneCards": [
+        {
+          "emoji": "😎",
+          "tone": "Proud",
+          "situation": "Show your friend the stickers and lights you put on your scooter."
+        },
+        {
+          "emoji": "😬",
+          "tone": "Guilty, like Phineas should be",
+          "situation": "Mom finds glitter all over her phone case. \"I… tricked it out?\"",
+          "note": "Same words, but now you're in trouble."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "id": "well-duh",
+      "story": "fast",
+      "type": "Slang",
+      "phrase": "Well, duh.",
+      "clips": [
+        {
+          "start": "1:34",
+          "end": "1:39",
+          "lines": [
+            [
+              "Candace",
+              "You don't even know how to drive."
+            ],
+            [
+              "Phineas",
+              "Well, duh. That's why Ferb built this remote."
+            ]
+          ],
+          "hl": "Well, duh."
+        }
+      ],
+      "meaning": "\"Duh\" = \"That's obvious!\" You say it when someone tells you something everybody already knows.",
+      "tone": "Friendly between kids. Said with an eye-roll, it's rude.",
+      "example": "\"It's raining.\" \"Well, duh. Look at my wet hair!\"",
+      "practice": "Your friend says, \"Ice cream is cold.\" Answer them.",
+      "toneCards": [
+        {
+          "emoji": "😄",
+          "tone": "Playful, like Phineas",
+          "situation": "Your friend says, \"You like Lego, right?\" while you're holding a giant Lego set.",
+          "note": "Phineas isn't mean. He's cheerful."
+        },
+        {
+          "emoji": "🙄",
+          "tone": "Rude (careful!)",
+          "situation": "Your teacher explains something and you say \"Duh.\"",
+          "note": "To a grown-up this sounds rude. Say \"Yes, I know\" instead."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "id": "so-busted",
+      "story": "fast",
+      "type": "Slang",
+      "phrase": "You are so busted.",
+      "clips": [
+        {
+          "label": "Garage",
+          "start": "1:40",
+          "end": "1:44",
+          "lines": [
+            [
+              "Candace",
+              "Oh, you are so busted."
+            ]
+          ],
+          "hl": "you are so busted"
+        },
+        {
+          "label": "At the race",
+          "start": "4:50",
+          "end": "5:02",
+          "lines": [
+            [
+              "Jeremy",
+              "And your little brother's gonna be on TV!"
+            ],
+            [
+              "Candace",
+              "Phineas? On TV? TV! That's it! They are so busted!"
+            ]
+          ],
+          "hl": "They are so busted!"
+        }
+      ],
+      "meaning": "\"Busted\" = caught doing something wrong. \"You're so busted\" = you're in big trouble now. It's Candace's favorite line in every episode.",
+      "listen": "In the garage, Candace says it in a deep, slow voice. That's how you know she's enjoying it.",
+      "example": "Cookie crumbs on your face? You are so busted.",
+      "practice": "You see your brother sneaking candy before dinner. What do you say?",
+      "toneCards": [
+        {
+          "emoji": "😈",
+          "tone": "Gleeful, like Candace",
+          "situation": "You catch your brother playing video games after bedtime.",
+          "note": "Low and slow: \"You are SO busted.\""
+        },
+        {
+          "emoji": "😅",
+          "tone": "Joking with a friend",
+          "situation": "Your friend says they don't like cake, but they're on their third slice."
+        },
+        {
+          "emoji": "😱",
+          "tone": "Worried, about yourself",
+          "situation": "You hear Mom's car. The living room is a mess. \"We are so busted!\""
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "id": "get-away-with-it",
+      "story": "fast",
+      "type": "Idiom",
+      "phrase": "They won't get away with it!",
+      "clips": [
+        {
+          "start": "1:54",
+          "end": "1:58",
+          "lines": [
+            [
+              "Candace",
+              "Heh, they won't get away with it this time!"
+            ]
+          ],
+          "hl": "get away with it"
+        }
+      ],
+      "meaning": "\"Get away with something\" = do something wrong and not get caught or punished.",
+      "listen": "\"This time\" is the joke. She has tried before and failed, and she'll fail again.",
+      "example": "My brother ate my chocolate. He won't get away with it!",
+      "practice": "Someone keeps taking the last cookie. Say they won't escape this time.",
+      "toneCards": [
+        {
+          "emoji": "😤",
+          "tone": "Determined",
+          "situation": "Someone keeps cutting in line at the slide."
+        },
+        {
+          "emoji": "🦹",
+          "tone": "Dramatic villain voice",
+          "situation": "Pretend you're a cartoon detective chasing a sock thief.",
+          "note": "Big, silly and over the top."
+        },
+        {
+          "emoji": "😮",
+          "tone": "Amazed",
+          "situation": "\"He skipped his homework and the teacher didn't notice? How did he get away with that?\""
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "id": "if-you-dont-mind",
+      "story": "fast",
+      "type": "Tone changes meaning",
+      "phrase": "…if you don't mind.",
+      "clips": [
+        {
+          "start": "2:01",
+          "end": "2:10",
+          "lines": [
+            [
+              "Vivian",
+              "Oh, Candace, dear. Bubela, how good to see you. What a coincidence. Do you know your mom is here?"
+            ],
+            [
+              "Candace",
+              "Yeah, I do, Mrs. Garcia-Shapiro. I need to talk to her if you don't mind."
+            ]
+          ],
+          "hl": "if you don't mind"
+        }
+      ],
+      "meaning": "A polite add-on that asks permission. But it can also mean \"please let me get on with it.\"",
+      "tone": "Polite words, but Candace says them fast and tight. She is in a hurry.",
+      "listen": "Mrs. Garcia-Shapiro talks super fast. \"Bubela\" is a Yiddish word for \"sweetie\".",
+      "example": "Can I sit here, if you don't mind?",
+      "practice": "You want to get past someone blocking the door. Ask politely.",
+      "toneCards": [
+        {
+          "emoji": "🙂",
+          "tone": "Really polite",
+          "situation": "On a bus, you'd like to sit in the empty seat next to someone.",
+          "note": "Soft voice. You're asking."
+        },
+        {
+          "emoji": "😤",
+          "tone": "Impatient, like Candace",
+          "situation": "Your brother is standing in front of the TV during your show.",
+          "note": "Tight smile. You mean \"Move!\""
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "id": "if-thats-all",
+      "story": "fast",
+      "type": "Useful phrase",
+      "phrase": "If that's all, I'll just…",
+      "clips": [
+        {
+          "start": "2:40",
+          "end": "2:48",
+          "lines": [
+            [
+              "Phineas",
+              "Hi, Mom!"
+            ],
+            [
+              "Linda",
+              "Hi, boys! Well, if that's all, I'll just be getting back to the game."
+            ]
+          ],
+          "hl": "if that's all"
+        }
+      ],
+      "plain": "Well, if there's nothing else, I'll go back to my card game.",
+      "meaning": "\"If that's all\" = if there's nothing else. A polite way to end a talk and go back to what you were doing.",
+      "tone": "Mom isn't annoyed. She just doesn't see anything strange, because the car is already in the air.",
+      "example": "If that's all, I'll go finish my homework.",
+      "practice": "Your teacher finished checking your work. Politely say you'll go back to reading.",
+      "toneCards": [
+        {
+          "emoji": "🙂",
+          "tone": "Polite and calm",
+          "situation": "The doctor says you're all done. \"If that's all, we'll head home.\""
+        },
+        {
+          "emoji": "😒",
+          "tone": "Brushing someone off",
+          "situation": "Your sister interrupts your game for nothing important.",
+          "note": "Flat voice. You don't want to talk."
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "id": "whatcha-doin-again",
+      "story": "fast",
+      "type": "Running gag",
+      "phrase": "Whatcha doin'? (again!)",
+      "clips": [
+        {
+          "label": "Race car",
+          "start": "2:53",
+          "end": "3:00",
+          "lines": [
+            [
+              "Isabella",
+              "Hi, Phineas."
+            ],
+            [
+              "Phineas",
+              "Oh, hi, Isabella."
+            ],
+            [
+              "Isabella",
+              "Whatcha doin'?"
+            ],
+            [
+              "Phineas",
+              "We're entering the Swamp Oil 500 today."
+            ]
+          ],
+          "hl": "Whatcha doin'?"
+        },
+        {
+          "label": "Backyard beach",
+          "start": "12:54",
+          "end": "13:04",
+          "lines": [
+            [
+              "Isabella",
+              "Hi, Phineas."
+            ],
+            [
+              "Phineas",
+              "Oh, hey, Isabella."
+            ],
+            [
+              "Isabella",
+              "Whatcha doin'?"
+            ],
+            [
+              "Phineas",
+              "Building a beach. Check it out."
+            ]
+          ],
+          "hl": "Whatcha doin'?"
+        }
+      ],
+      "plain": "What are you doing? → Whatcha doin'?",
+      "meaning": "\"What are you doing?\" said fast and sweet. Isabella says it in almost every episode. You met it in S1 E1.",
+      "listen": "Both times she says \"Hi, Phineas\" in a dreamy voice first. That's part of the joke: she has a crush on him.",
+      "example": "Hi, Grandpa! Whatcha doin'?",
+      "practice": "Your teacher is drawing something. Ask about it the Isabella way.",
+      "toneCards": [
+        {
+          "emoji": "😊",
+          "tone": "Sweet, like Isabella",
+          "situation": "You see your friend building a sandcastle.",
+          "note": "Stretch it: \"Whatcha doooin'?\""
+        },
+        {
+          "emoji": "🤨",
+          "tone": "Suspicious",
+          "situation": "Your brother is hiding something behind his back.",
+          "note": "Slow and low."
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "id": "youre-hired",
+      "story": "fast",
+      "type": "Useful phrase",
+      "phrase": "Aren't you gonna need…? / You're hired!",
+      "clips": [
+        {
+          "start": "2:59",
+          "end": "3:09",
+          "lines": [
+            [
+              "Isabella",
+              "Aren't you gonna need a pit crew?"
+            ],
+            [
+              "Phineas",
+              "Do you know a pit crew?"
+            ],
+            [
+              "Isabella",
+              "Well... I know a few people who work well together."
+            ],
+            [
+              "Phineas",
+              "Great! You're hired! See you at the track."
+            ]
+          ],
+          "hl": "You're hired!"
+        }
+      ],
+      "meaning": "\"Aren't you gonna need…?\" is a sneaky way to offer help. \"You're hired!\" = you've got the job. Kids say it as a joke when someone offers to help.",
+      "listen": "\"Gonna\" = going to. Isabella says \"I know a few people\" like it's a secret. She means her own Fireside Girls troop.",
+      "example": "\"Aren't you gonna need someone to hold the ladder?\" \"Yes! You're hired!\"",
+      "practice": "Your teacher is carrying lots of books. Offer to help the sneaky way.",
+      "toneCards": [
+        {
+          "emoji": "😉",
+          "tone": "Hinting",
+          "situation": "Your mom is baking. \"Aren't you gonna need a taste-tester?\""
+        },
+        {
+          "emoji": "😂",
+          "tone": "Joking boss",
+          "situation": "Your friend offers to carry your bag. \"You're hired!\""
+        },
+        {
+          "emoji": "👔",
+          "tone": "Real job (serious)",
+          "situation": "In a real interview, a boss says \"You're hired\" and means it."
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "id": "wheres-perry",
+      "story": "fast",
+      "type": "Running gag",
+      "phrase": "Hey, where's Perry?",
+      "clips": [
+        {
+          "label": "Race car",
+          "start": "3:08",
+          "end": "3:13",
+          "lines": [
+            [
+              "Phineas",
+              "Hey, Ferb, where's Perry?"
+            ]
+          ],
+          "hl": "where's Perry?"
+        },
+        {
+          "label": "Backyard beach",
+          "start": "12:30",
+          "end": "12:36",
+          "lines": [
+            [
+              "Phineas",
+              "Hey, where's Perry?"
+            ]
+          ],
+          "hl": "where's Perry?"
+        }
+      ],
+      "meaning": "Every episode, the boys notice their pet is gone. They never find out he's a secret agent. Fans love this line.",
+      "listen": "Right after he asks, the music turns into spy music. That's your clue.",
+      "example": "Hey, where's my other sock?",
+      "practice": "Your pencil was just here a second ago. Ask about it the Phineas way.",
+      "toneCards": [
+        {
+          "emoji": "🤔",
+          "tone": "Curious, like Phineas",
+          "situation": "Your cat was on the sofa a moment ago."
+        },
+        {
+          "emoji": "😟",
+          "tone": "Worried",
+          "situation": "Your little brother was right behind you in the shop. Now he's not.",
+          "note": "Faster and higher. You really need an answer."
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "id": "old-tricks",
+      "story": "fast",
+      "type": "Idiom",
+      "phrase": "up to his old tricks",
+      "clips": [
+        {
+          "start": "3:20",
+          "end": "3:25",
+          "lines": [
+            [
+              "Major Monogram",
+              "Good morning, Agent P. The evil Dr. Doofenshmirtz is up to his old tricks."
+            ]
+          ],
+          "hl": "up to his old tricks"
+        }
+      ],
+      "meaning": "Doing the same bad or naughty things again, like always.",
+      "example": "The puppy is up to his old tricks. He chewed my shoe again!",
+      "practice": "Your cat keeps knocking cups off the table. Tell your teacher about it.",
+      "toneCards": [
+        {
+          "emoji": "😑",
+          "tone": "Tired, \"here we go again\"",
+          "situation": "Your little brother hid the TV remote again."
+        },
+        {
+          "emoji": "😄",
+          "tone": "Fond and amused",
+          "situation": "Grandpa tells the same silly joke every dinner.",
+          "note": "Smiling. You don't really mind."
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "id": "as-the-kids-say",
+      "story": "fast",
+      "type": "Joke pattern",
+      "phrase": "…as the kids say.",
+      "clips": [
+        {
+          "start": "3:24",
+          "end": "3:33",
+          "lines": [
+            [
+              "Major Monogram",
+              "For reasons completely unknown, he's purchased a giant airship or blimp, as the kids say. Your mission is to find out why, and if necessary, put a stop to it."
+            ]
+          ],
+          "hl": "as the kids say"
+        }
+      ],
+      "meaning": "Grown-ups say \"as the kids say\" before a cool new slang word. The joke: \"blimp\" isn't slang at all. It's a normal, old word.",
+      "listen": "\"Put a stop to it\" = make it stop.",
+      "example": "That movie was totally epic, as the kids say.",
+      "practice": "Pretend you're a grandparent. Use a modern word with \"as the kids say\".",
+      "toneCards": [
+        {
+          "emoji": "👴",
+          "tone": "Old-fashioned, like the Major",
+          "situation": "Pretend to be a grandparent: \"That's very cool, as the kids say.\""
+        },
+        {
+          "emoji": "😏",
+          "tone": "Teasing a grown-up",
+          "situation": "Your dad tries to use slang. \"Nice, Dad. 'As the kids say.'\""
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "id": "big-fan-faking",
+      "story": "fast",
+      "type": "Tone changes meaning",
+      "phrase": "Who, me? I'm a big fan of…",
+      "clips": [
+        {
+          "start": "4:06",
+          "end": "4:21",
+          "lines": [
+            [
+              "Jeremy",
+              "Hey, Candace! I didn't know you were a racing fan!"
+            ],
+            [
+              "Candace",
+              "Jeremy."
+            ],
+            [
+              "Candace",
+              "Who, me? Oh, yeah! Yeah, I'm a big fan of those, those, uh... that red one is cute!"
+            ],
+            [
+              "Jeremy",
+              "Oh, that's Billy Ray Digler's car. He's great."
+            ]
+          ],
+          "hl": "I'm a big fan of those"
+        }
+      ],
+      "meaning": "\"I'm a big fan of ___\" = I really like ___. Candace is faking it. She knows nothing about racing, but she wants to impress her crush.",
+      "tone": "The pauses and \"uh\" show she's making it up. \"That red one is cute!\" is not what a real racing fan would say.",
+      "listen": "\"Who, me?\" = she's buying time to think.",
+      "example": "I'm a big fan of chocolate chip cookies.",
+      "practice": "Tell your teacher about a show or food you really love.",
+      "toneCards": [
+        {
+          "emoji": "😍",
+          "tone": "Real fan",
+          "situation": "Tell a friend about your favorite band."
+        },
+        {
+          "emoji": "😅",
+          "tone": "Faking it, like Candace",
+          "situation": "Someone asks if you like opera. You've never heard any. \"Oh, yeah! I'm a big fan of… the, uh… singing?\"",
+          "note": "The pauses and \"uh\" give you away."
+        }
+      ]
+    },
+    {
+      "n": 13,
+      "id": "is-it-just-me",
+      "story": "fast",
+      "type": "Useful phrase",
+      "phrase": "Is it just me, or…?",
+      "clips": [
+        {
+          "start": "4:33",
+          "end": "4:42",
+          "lines": [
+            [
+              "Announcer 1",
+              "Now, is it just me, or does he look a little bit young to be behind the wheel of a 700-horsepower racing machine?"
+            ],
+            [
+              "Announcer 2",
+              "Yes. Yes, he does."
+            ]
+          ],
+          "hl": "is it just me, or"
+        }
+      ],
+      "meaning": "A polite way to say \"I think…\" and check if others agree. \"Behind the wheel\" = driving.",
+      "example": "Is it just me, or is it really cold in here?",
+      "practice": "You think the music is too loud. Check if your teacher agrees.",
+      "toneCards": [
+        {
+          "emoji": "🤔",
+          "tone": "Honestly checking",
+          "situation": "Is it just me, or does this milk smell funny?"
+        },
+        {
+          "emoji": "😏",
+          "tone": "Sarcastic",
+          "situation": "Your brother takes his fifth cookie. \"Is it just me, or are the cookies disappearing?\"",
+          "note": "You already know the answer."
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "id": "little-young-again",
+      "story": "fast",
+      "type": "Running gag",
+      "phrase": "A little young to…? Yes. Yes, I am.",
+      "clips": [
+        {
+          "label": "Racing announcers",
+          "start": "4:33",
+          "end": "4:42",
+          "lines": [
+            [
+              "Announcer 1",
+              "Now, is it just me, or does he look a little bit young to be behind the wheel of a 700-horsepower racing machine?"
+            ],
+            [
+              "Announcer 2",
+              "Yes. Yes, he does."
+            ]
+          ],
+          "hl": "Yes. Yes, he does."
+        },
+        {
+          "label": "Backyard beach",
+          "start": "12:49",
+          "end": "12:55",
+          "lines": [
+            [
+              "Contractor",
+              "Aren't you a little young to be a landscape contractor?"
+            ],
+            [
+              "Phineas",
+              "Yes, yes I am."
+            ]
+          ],
+          "hl": "Yes, yes I am"
+        }
+      ],
+      "meaning": "Someone says Phineas is too young. The answer agrees calmly, and then he does it anyway. This joke is from S1 E1, and it keeps coming back.",
+      "tone": "Not rude. The double \"Yes\" makes it calm and confident.",
+      "listen": "This time the announcer answers his own partner. Same joke, new speaker.",
+      "example": "\"Aren't you a little young to cook breakfast?\" \"Yes. Yes, I am.\"",
+      "practice": "A grown-up asks if you're too young to build a big puzzle. Answer the Phineas way.",
+      "toneCards": [
+        {
+          "emoji": "😎",
+          "tone": "Calm and proud",
+          "situation": "\"Aren't you a little young to swim that far?\""
+        },
+        {
+          "emoji": "🙂",
+          "tone": "Honest and humble",
+          "situation": "\"Aren't you a little young for that roller coaster?\" \"Yes, I am. I'll wait.\"",
+          "note": "Here you mean it and you stop."
+        }
+      ]
+    },
+    {
+      "n": 15,
+      "id": "rooting-for",
+      "story": "fast",
+      "type": "Phrasal verb",
+      "phrase": "root for (someone)",
+      "clips": [
+        {
+          "start": "4:44",
+          "end": "4:51",
+          "lines": [
+            [
+              "Candace",
+              "Phineas!"
+            ],
+            [
+              "Phineas",
+              "Hey, Candace is rooting for us!"
+            ],
+            [
+              "Jeremy",
+              "Candace, you're on the big screen!"
+            ]
+          ],
+          "hl": "rooting for us"
+        }
+      ],
+      "meaning": "\"Root for\" = cheer for someone and hope they win. The joke: Candace is really yelling because she wants Phineas in trouble.",
+      "listen": "\"Root\" rhymes with \"boot\".",
+      "example": "I'm rooting for the blue team.",
+      "practice": "Tell your teacher which team or player you want to win.",
+      "toneCards": [
+        {
+          "emoji": "📣",
+          "tone": "Cheering",
+          "situation": "Your best friend is in a race on sports day."
+        },
+        {
+          "emoji": "🙃",
+          "tone": "Getting it wrong, like Phineas",
+          "situation": "Your sister yells your name across the park because you're in trouble. You wave: \"She's rooting for me!\""
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "id": "better-be-good",
+      "story": "fast",
+      "type": "Tone changes meaning",
+      "phrase": "This better be good.",
+      "clips": [
+        {
+          "start": "5:05",
+          "end": "5:11",
+          "lines": [
+            [
+              "Candace",
+              "Turn on the TV!"
+            ],
+            [
+              "Linda",
+              "All right. All right, Candace. This better be good."
+            ]
+          ],
+          "hl": "This better be good."
+        }
+      ],
+      "plain": "This better be good. = This had better be good. = It needs to be worth it.",
+      "meaning": "\"You interrupted me, so this had better be worth it.\" It's a gentle warning.",
+      "example": "You woke me up? This better be good.",
+      "practice": "Your brother calls you away from your favorite show. What do you say?",
+      "toneCards": [
+        {
+          "emoji": "😑",
+          "tone": "Warning, like Mom",
+          "situation": "Your friend makes you stop your game to come and look at something."
+        },
+        {
+          "emoji": "😆",
+          "tone": "Excited and teasing",
+          "situation": "Your friend says, \"I've got a big surprise for you!\" \"Ooh, this better be good!\"",
+          "note": "Smiling. You can't wait."
+        }
+      ]
+    },
+    {
+      "n": 17,
+      "id": "trying-to-tell-me",
+      "story": "fast",
+      "type": "Tone changes meaning",
+      "phrase": "Is there something you're trying to tell me?",
+      "clips": [
+        {
+          "start": "5:32",
+          "end": "5:37",
+          "lines": [
+            [
+              "Linda",
+              "Candace, this is a dandruff commercial. Is there something you're trying to tell me?"
+            ]
+          ],
+          "hl": "Is there something you're trying to tell me?"
+        }
+      ],
+      "meaning": "\"Are you hinting at something?\" Mom jokes that Candace wants to say she has dandruff, which is flakes in your hair.",
+      "example": "You gave me a toothbrush for my birthday. Is there something you're trying to tell me?",
+      "practice": "Your friend gives you a book called \"How to Be on Time\". Answer them.",
+      "toneCards": [
+        {
+          "emoji": "😂",
+          "tone": "Joking",
+          "situation": "Your friend gives you soap as a present."
+        },
+        {
+          "emoji": "🤨",
+          "tone": "Serious, getting worried",
+          "situation": "Your friend has been quiet all day.",
+          "note": "Kind voice: you really want them to talk."
+        }
+      ]
+    },
+    {
+      "n": 18,
+      "id": "just-in-time",
+      "story": "fast",
+      "type": "Tone changes meaning",
+      "phrase": "You're just in time to…",
+      "clips": [
+        {
+          "start": "5:48",
+          "end": "6:02",
+          "lines": [
+            [
+              "Doofenshmirtz",
+              "Ah, Perry the Platypus. I'm glad you're here. Actually, I was just getting ready to serve some platypus under glass! You're just in time to witness my latest invention…"
+            ]
+          ],
+          "hl": "You're just in time"
+        }
+      ],
+      "meaning": "\"You arrived at the perfect moment.\" Usually friendly. From a villain, it's a threat.",
+      "listen": "\"Platypus under glass\" is a joke on a fancy restaurant dish. He's pretending he'll cook Perry.",
+      "example": "You're just in time for pizza!",
+      "practice": "Your teacher arrives just as you finish a drawing. Welcome them.",
+      "toneCards": [
+        {
+          "emoji": "🍕",
+          "tone": "Friendly",
+          "situation": "Your friend walks in right as the pizza arrives."
+        },
+        {
+          "emoji": "😈",
+          "tone": "Villain, like Doofenshmirtz",
+          "situation": "Your friend walks into your blanket fort. \"Ah, you're just in time to witness… my pillow cannon!\"",
+          "note": "Slow and dramatic."
+        }
+      ]
+    },
+    {
+      "n": 19,
+      "id": "flated",
+      "story": "fast",
+      "type": "Joke pattern",
+      "phrase": "if anyone wants anything flated",
+      "clips": [
+        {
+          "start": "6:08",
+          "end": "6:18",
+          "lines": [
+            [
+              "Doofenshmirtz",
+              "After which, I will deflate everything in the Tri-State Area! That way, if anyone wants anything flated, they will have to talk to me."
+            ]
+          ],
+          "hl": "anything flated"
+        }
+      ],
+      "plain": [
+        "Real words: deflate (air out), inflate (air in).",
+        "He means: \"If anyone wants anything inflated, they'll need me.\"",
+        "But he says \"flated\", which isn't a word. He sounds clever, but he isn't."
+      ],
+      "meaning": "\"Deflate\" = let the air out. \"Inflate\" = put air in. Doofenshmirtz chops off the front and makes up \"flate\". It isn't a real word. That's the joke.",
+      "example": "If you want your balloon inflated, ask me. I have the pump!",
+      "practice": "Make up a silly word by cutting the front off a real word (try \"unhappy\").",
+      "toneCards": [
+        {
+          "emoji": "🦹",
+          "tone": "Silly villain",
+          "situation": "Announce to your family that you control all the bubbles in the bathtub."
+        },
+        {
+          "emoji": "🤓",
+          "tone": "Correcting someone",
+          "situation": "Your friend says \"flate\". \"You mean inflate!\""
+        }
+      ]
+    },
+    {
+      "n": 20,
+      "id": "big-trouble-mister",
+      "story": "fast",
+      "type": "Tone changes meaning",
+      "phrase": "You are in big trouble, mister!",
+      "clips": [
+        {
+          "start": "6:17",
+          "end": "6:23",
+          "lines": [
+            [
+              "Candace",
+              "Phineas, you are in big trouble, mister—!"
+            ]
+          ],
+          "hl": "in big trouble, mister"
+        }
+      ],
+      "meaning": "\"Mister\" here isn't polite. Parents say \"young man\" or \"mister\" when they scold a boy. Candace copies a parent's voice.",
+      "example": "You ate all the cookies? You are in big trouble, mister!",
+      "practice": "Pretend to be a parent scolding a teddy bear.",
+      "toneCards": [
+        {
+          "emoji": "😠",
+          "tone": "Scolding, like a parent",
+          "situation": "Your dog dug up the garden. \"You're in big trouble, mister!\""
+        },
+        {
+          "emoji": "😂",
+          "tone": "Playful",
+          "situation": "Your friend steals your fries as a joke.",
+          "note": "Smiling. Pretend-angry."
+        }
+      ]
+    },
+    {
+      "n": 21,
+      "id": "youve-got-a-little",
+      "story": "fast",
+      "type": "Useful phrase",
+      "phrase": "You've got a little…",
+      "clips": [
+        {
+          "start": "6:26",
+          "end": "6:31",
+          "lines": [
+            [
+              "Jeremy",
+              "Candace, you've got a little..."
+            ],
+            [
+              "Photographer",
+              "Smile! Souvenir picture? Only a dollar."
+            ]
+          ],
+          "hl": "you've got a little"
+        }
+      ],
+      "meaning": "A kind way to tell someone they have something on their face. You stop and point instead of saying \"You look dirty.\"",
+      "listen": "Jeremy doesn't finish the sentence. You don't need to. The point says the rest.",
+      "example": "You've got a little… ketchup, right there.",
+      "practice": "Your teacher has chalk on their nose. Tell them kindly.",
+      "toneCards": [
+        {
+          "emoji": "😊",
+          "tone": "Kind",
+          "situation": "Your friend has ice cream on their chin. Point to your own chin."
+        },
+        {
+          "emoji": "😬",
+          "tone": "Awkward",
+          "situation": "A grown-up you don't know well has spinach in their teeth.",
+          "note": "Quiet voice and a small point."
+        }
+      ]
+    },
+    {
+      "n": 22,
+      "id": "two-bucks",
+      "story": "fast",
+      "type": "Slang",
+      "phrase": "Two pictures, two bucks.",
+      "clips": [
+        {
+          "start": "6:36",
+          "end": "6:48",
+          "lines": [
+            [
+              "Photographer",
+              "Hey hey, Missy. Two pictures, two bucks."
+            ],
+            [
+              "Candace",
+              "Oh, yeah, uh, I've only got a dollar, but uh, I just want the one. You can just tear the other one up, 'kay?"
+            ]
+          ],
+          "hl": "two bucks"
+        }
+      ],
+      "meaning": "\"Buck\" = a dollar (American slang). \"Missy\" is what a grown-up calls a girl when telling her off.",
+      "listen": "Candace says \"the one\" = the one picture she wants, the one with Phineas.",
+      "example": "This comic costs five bucks.",
+      "practice": "Tell your teacher how much your favorite snack costs, using \"bucks\".",
+      "toneCards": [
+        {
+          "emoji": "🛒",
+          "tone": "Casual",
+          "situation": "Tell a friend your new pen was only two bucks."
+        },
+        {
+          "emoji": "😤",
+          "tone": "Telling off, like the photographer",
+          "situation": "A grown-up stops a kid taking a free sample: \"Hey, missy, that's one per person.\"",
+          "note": "\"Missy\" sounds bossy. Don't say it to grown-ups."
+        }
+      ]
+    },
+    {
+      "n": 23,
+      "id": "this-puppy",
+      "story": "fast",
+      "type": "Slang",
+      "phrase": "see what this puppy can do",
+      "clips": [
+        {
+          "start": "6:54",
+          "end": "7:02",
+          "lines": [
+            [
+              "Phineas",
+              "Hey, Ferb. Do you think we can get any more power? I mean, I know it's just a battery. But I was thinking: Let's open it up and see what this puppy can—"
+            ]
+          ],
+          "hl": "see what this puppy can"
+        }
+      ],
+      "meaning": "\"This puppy\" = this thing (a machine, car or gadget). \"Open it up\" = go full speed. \"See what it can do\" = test how good it is.",
+      "example": "New bike! Let's see what this puppy can do.",
+      "practice": "You got a new remote-control car. Tell your teacher you want to test it.",
+      "toneCards": [
+        {
+          "emoji": "🏎️",
+          "tone": "Excited",
+          "situation": "You get a brand-new skateboard."
+        },
+        {
+          "emoji": "🐶",
+          "tone": "Confused (real puppy)",
+          "situation": "Someone hears \"this puppy\" and looks for a dog.",
+          "note": "It's slang. No real dog!"
+        }
+      ]
+    },
+    {
+      "n": 24,
+      "id": "thats-what-im-talking-about",
+      "story": "fast",
+      "type": "Slang",
+      "phrase": "Now that's what I'm talkin' about!",
+      "clips": [
+        {
+          "start": "7:07",
+          "end": "7:14",
+          "lines": [
+            [
+              "Phineas",
+              "Oh yeah! Now that's what I'm talkin' about!"
+            ]
+          ],
+          "hl": "that's what I'm talkin' about"
+        }
+      ],
+      "meaning": "\"Yes! This is exactly what I wanted!\" You shout it when something goes really well.",
+      "listen": "\"Talkin'\" drops the g. Stress \"THAT'S\".",
+      "example": "Pizza for dinner? Now that's what I'm talkin' about!",
+      "practice": "Your teacher says there's no homework today. React.",
+      "toneCards": [
+        {
+          "emoji": "🥳",
+          "tone": "Super excited",
+          "situation": "Your team scores the winning goal."
+        },
+        {
+          "emoji": "🙄",
+          "tone": "Sarcastic",
+          "situation": "Your brother finally cleans one sock off the floor. \"Wow. That's what I'm talkin' about.\"",
+          "note": "Flat voice. You mean the opposite."
+        }
+      ]
+    },
+    {
+      "n": 25,
+      "id": "looked-better",
+      "story": "fast",
+      "type": "Tone changes meaning",
+      "phrase": "You've looked better.",
+      "clips": [
+        {
+          "start": "8:42",
+          "end": "8:49",
+          "lines": [
+            [
+              "Candace",
+              "Well, Mom, what do you think of this?"
+            ],
+            [
+              "Linda",
+              "You've...looked better."
+            ],
+            [
+              "Candace",
+              "Huh? What do you mean—?"
+            ]
+          ],
+          "hl": "looked better"
+        }
+      ],
+      "plain": "You've looked better (before). = You don't look great right now.",
+      "meaning": "A soft way to say \"You don't look good right now.\" Candace wanted Mom to see Phineas. Mom only sees burnt, messy Candace.",
+      "example": "\"How's my hair after the wind?\" \"You've looked better.\"",
+      "practice": "Your friend just got out of a muddy race. They ask how they look.",
+      "toneCards": [
+        {
+          "emoji": "😬",
+          "tone": "Gentle but honest",
+          "situation": "Your friend asks how they look after a long, sweaty game."
+        },
+        {
+          "emoji": "😂",
+          "tone": "Teasing a friend",
+          "situation": "Your friend wakes up with crazy bed hair.",
+          "note": "Big grin."
+        },
+        {
+          "emoji": "😟",
+          "tone": "Worried",
+          "situation": "Your friend looks pale and sick. \"You've looked better. Are you OK?\""
+        }
+      ]
+    },
+    {
+      "n": 26,
+      "id": "seen-that-coming",
+      "story": "fast",
+      "type": "Idiom",
+      "phrase": "I should've seen that coming.",
+      "clips": [
+        {
+          "start": "9:37",
+          "end": "9:42",
+          "lines": [
+            [
+              "Doofenshmirtz",
+              "Hmm. I suppose I should've seen that coming."
+            ]
+          ],
+          "hl": "should've seen that coming"
+        }
+      ],
+      "meaning": "\"I should have guessed that would happen.\" You say it after something goes wrong that was easy to predict.",
+      "listen": "\"Should've\" = should have, said \"SHOULD-uv\".",
+      "example": "I left my ice cream in the sun. I should've seen that coming.",
+      "practice": "You stacked your blocks really high and they fell. What do you say?",
+      "toneCards": [
+        {
+          "emoji": "😑",
+          "tone": "Calm, like Doofenshmirtz",
+          "situation": "You tease the cat and it scratches you."
+        },
+        {
+          "emoji": "😂",
+          "tone": "Laughing at yourself",
+          "situation": "You trip over the shoe you left on the stairs."
+        },
+        {
+          "emoji": "😠",
+          "tone": "Annoyed",
+          "situation": "Your brother forgets his lunch again. \"I should've seen that coming!\""
+        }
+      ]
+    },
+    {
+      "n": 27,
+      "id": "go-watch-tv",
+      "story": "fast",
+      "type": "Tone changes meaning",
+      "phrase": "That's good, Candace. Go watch a little TV.",
+      "clips": [
+        {
+          "start": "9:44",
+          "end": "9:52",
+          "lines": [
+            [
+              "Candace",
+              "Wait a minute. I bet it's still on TV!"
+            ],
+            [
+              "Linda",
+              "That's good, Candace. Go watch a little TV."
+            ]
+          ],
+          "hl": "Go watch a little TV."
+        }
+      ],
+      "meaning": "Mom isn't really listening. She says something nice so Candace will leave her alone. \"I bet…\" = I'm pretty sure.",
+      "tone": "Flat and bored. \"That's good\" here means \"Sure, sure, whatever.\"",
+      "example": "I bet it's still in my backpack!",
+      "practice": "You're pretty sure your lost toy is under the bed. Say it with \"I bet\".",
+      "toneCards": [
+        {
+          "emoji": "😴",
+          "tone": "Not listening, like Mom",
+          "situation": "Your little brother tells you about his dream for the tenth time. \"That's nice. Go play.\""
+        },
+        {
+          "emoji": "😊",
+          "tone": "Really kind",
+          "situation": "Your friend feels sick. \"That's OK. Go watch a little TV and rest.\"",
+          "note": "Warm voice. You care."
+        }
+      ]
+    },
+    {
+      "n": 28,
+      "id": "looks-like-were-walking",
+      "story": "fast",
+      "type": "Spoken form",
+      "phrase": "Looks like we're walking.",
+      "clips": [
+        {
+          "start": "10:18",
+          "end": "10:23",
+          "lines": [
+            [
+              "Phineas",
+              "Hmm. Looks like we're walking."
+            ]
+          ],
+          "hl": "Looks like we're walking."
+        }
+      ],
+      "plain": [
+        "Full version: \"It looks like we'll have to walk home.\"",
+        "Drop \"It\" and use \"we're walking\" for the plan. You get \"Looks like we're walking.\""
+      ],
+      "meaning": "Their car was just stolen, but Phineas stays calm. He makes a plain, short comment instead of panicking. That's the joke.",
+      "example": "The bus left without us. Looks like we're walking.",
+      "practice": "Your pencil broke and there's no sharpener. Say it the calm Phineas way.",
+      "toneCards": [
+        {
+          "emoji": "😌",
+          "tone": "Calm, like Phineas",
+          "situation": "The elevator is broken. Looks like we're taking the stairs."
+        },
+        {
+          "emoji": "😩",
+          "tone": "Grumpy",
+          "situation": "It's raining and Dad forgot the car keys.",
+          "note": "Big sigh first."
+        }
+      ]
+    },
+    {
+      "n": 29,
+      "id": "she-has-no-idea",
+      "story": "fast",
+      "type": "Tone changes meaning",
+      "phrase": "She has no idea!",
+      "clips": [
+        {
+          "start": "10:31",
+          "end": "10:40",
+          "lines": [
+            [
+              "Candace",
+              "\"Why don't you go back home, Candace?\" \"I'm busy with my bridge game, Candace.\" She has no idea!"
+            ]
+          ],
+          "hl": "She has no idea!"
+        }
+      ],
+      "meaning": "\"She doesn't understand at all.\" Candace also copies Mom in a silly voice. That's a mocking voice: you repeat someone to make fun of them.",
+      "tone": "The mocking voice is OK in a cartoon. To a real person's face, it's rude.",
+      "example": "My dad thinks this game is easy. He has no idea!",
+      "practice": "Tell your teacher about a grown-up who doesn't know how hard something is.",
+      "toneCards": [
+        {
+          "emoji": "😤",
+          "tone": "Frustrated, like Candace",
+          "situation": "Nobody believes you saw a raccoon in the kitchen."
+        },
+        {
+          "emoji": "😁",
+          "tone": "Excited secret",
+          "situation": "Your mom has no idea about the surprise party.",
+          "note": "Happy whisper."
+        }
+      ]
+    },
+    {
+      "n": 30,
+      "id": "gotta-admit",
+      "story": "fast",
+      "type": "Useful phrase",
+      "phrase": "I gotta admit…",
+      "clips": [
+        {
+          "start": "11:24",
+          "end": "11:32",
+          "lines": [
+            [
+              "Linda",
+              "It's beautiful! I gotta admit, I thought you were exaggerating a bit, but this is really worth getting excited about!"
+            ]
+          ],
+          "hl": "I gotta admit"
+        }
+      ],
+      "meaning": "\"I have to admit\" = I'll be honest, I was wrong. \"Worth getting excited about\" = good enough to be excited.",
+      "tone": "Mom praises the clean car, not the race car. Candace is stuck with her mouth open.",
+      "listen": "\"Gotta\" = got to = have to.",
+      "example": "I gotta admit, I thought broccoli was gross, but this is yummy.",
+      "practice": "You didn't want to go to the museum, but it was fun. Tell your teacher.",
+      "toneCards": [
+        {
+          "emoji": "🙂",
+          "tone": "Honest",
+          "situation": "You thought the new teacher would be strict, but they're fun."
+        },
+        {
+          "emoji": "😏",
+          "tone": "Grudging",
+          "situation": "Your brother's joke is actually funny. \"OK, I gotta admit, that was good.\"",
+          "note": "You don't want to say it, but you do."
+        }
+      ]
+    },
+    {
+      "n": 31,
+      "id": "close-your-mouth",
+      "story": "fast",
+      "type": "Spoken form",
+      "phrase": "Honey, close your mouth.",
+      "clips": [
+        {
+          "start": "11:40",
+          "end": "11:46",
+          "lines": [
+            [
+              "Linda",
+              "Honey, close your mouth."
+            ]
+          ],
+          "hl": "Honey, close your mouth."
+        }
+      ],
+      "meaning": "Candace's jaw has dropped in shock. A jaw-drop means you're super surprised. Mom gently reminds her she looks silly.",
+      "example": "Close your mouth, you'll catch flies!",
+      "practice": "Your friend is staring with their mouth open at a huge cake. Tease them gently.",
+      "toneCards": [
+        {
+          "emoji": "🥰",
+          "tone": "Gentle, like Mom",
+          "situation": "Your little sister stares at the fireworks with her mouth open."
+        },
+        {
+          "emoji": "😠",
+          "tone": "Rude (careful!)",
+          "situation": "Someone keeps talking. \"Close your mouth!\"",
+          "note": "Without \"Honey\", it means \"Be quiet!\" That's rude."
+        }
+      ]
+    },
+    {
+      "n": 32,
+      "id": "take-it-easy",
+      "story": "gnome",
+      "type": "Idiom",
+      "phrase": "take it easy / blow the day off",
+      "clips": [
+        {
+          "start": "11:48",
+          "end": "11:59",
+          "lines": [
+            [
+              "Radio DJ",
+              "Unless you live at the beach, I say take it easy and do nothin' today. Yup, just find yourself a shady tree, and maybe an aquatic mammal of some sort, and blow the whole day off."
+            ]
+          ],
+          "hl": "take it easy"
+        }
+      ],
+      "meaning": "\"Take it easy\" = relax. \"Blow the day off\" = skip all your plans and do nothing. \"An aquatic mammal\" is a joke: the boys are lying with Perry the platypus.",
+      "listen": "\"Nothin'\" drops the g. \"Yup\" = yes.",
+      "example": "It's Sunday. Let's take it easy.",
+      "practice": "Tell your teacher how you'd spend a lazy Sunday.",
+      "toneCards": [
+        {
+          "emoji": "😎",
+          "tone": "Relaxed",
+          "situation": "It's a holiday and you have no plans."
+        },
+        {
+          "emoji": "🙏",
+          "tone": "Calming someone",
+          "situation": "Your friend is shouting about a lost game. \"Hey, take it easy.\"",
+          "note": "Means: calm down."
+        }
+      ]
+    },
+    {
+      "n": 33,
+      "id": "then-they-win",
+      "story": "gnome",
+      "type": "Joke pattern",
+      "phrase": "If we let ___ stop us, then ___ wins.",
+      "clips": [
+        {
+          "start": "11:58",
+          "end": "12:04",
+          "lines": [
+            [
+              "Phineas",
+              "Come on, Ferb. If we let a little heat stop us from having the best day ever, then the morning DJs win."
+            ]
+          ],
+          "hl": "then the morning DJs win"
+        }
+      ],
+      "meaning": "A funny way to say \"Don't give up!\" You pretend the problem is an enemy that wins if you quit.",
+      "example": "If we let a little rain stop our picnic, then the clouds win!",
+      "practice": "It's cold outside, but you want to go to the park. Convince your teacher.",
+      "toneCards": [
+        {
+          "emoji": "💪",
+          "tone": "Pep talk",
+          "situation": "Your team is losing at halftime."
+        },
+        {
+          "emoji": "😂",
+          "tone": "Silly",
+          "situation": "You're too sleepy for breakfast. \"If I let sleepiness stop me, the pancakes win!\""
+        }
+      ]
+    },
+    {
+      "n": 34,
+      "id": "how-cute",
+      "story": "gnome",
+      "type": "Tone changes meaning",
+      "phrase": "Oh, how cute.",
+      "clips": [
+        {
+          "start": "12:05",
+          "end": "12:13",
+          "lines": [
+            [
+              "Linda",
+              "So what are you up to?"
+            ],
+            [
+              "Phineas",
+              "We're making our own beach, right here in the backyard."
+            ],
+            [
+              "Linda",
+              "Oh, how cute. Well, I'm off for my spa day."
+            ]
+          ],
+          "hl": "Oh, how cute."
+        }
+      ],
+      "meaning": "Mom thinks it's a little sandbox game. \"How cute\" can mean \"That's sweet, but not serious.\" \"I'm off\" = I'm leaving now.",
+      "tone": "Mom says it kindly, but she doesn't believe them. Later, the beach is huge.",
+      "example": "Oh, how cute! A baby duck!",
+      "practice": "Your little cousin says they'll build a real rocket. React like a grown-up who doesn't believe it.",
+      "toneCards": [
+        {
+          "emoji": "🥰",
+          "tone": "Really sweet",
+          "situation": "You see a puppy in a tiny raincoat."
+        },
+        {
+          "emoji": "😒",
+          "tone": "Not taking it seriously",
+          "situation": "Your big brother laughs at your plan: \"Oh, how cute.\"",
+          "note": "It can feel mean. It means \"You're just a little kid.\""
+        }
+      ]
+    },
+    {
+      "n": 35,
+      "id": "by-default",
+      "story": "gnome",
+      "type": "Useful phrase",
+      "phrase": "in charge… by default",
+      "clips": [
+        {
+          "start": "12:18",
+          "end": "12:30",
+          "lines": [
+            [
+              "Candace",
+              "You heard her. We can't bug Dad, which makes me in charge… by default."
+            ],
+            [
+              "Candace",
+              "Carry on."
+            ],
+            [
+              "Phineas",
+              "We're gonna need more sand."
+            ]
+          ],
+          "hl": "by default"
+        }
+      ],
+      "meaning": "\"By default\" = because nobody else can. Candace is the boss only because Dad's busy. \"Bug\" = bother. \"Carry on\" = keep going (a bossy way to end a talk).",
+      "listen": "Candace pauses before \"by default\". It's like she knows it isn't a great reason. (In S1 E1, she was \"in charge\" too!)",
+      "example": "Nobody else wanted to be goalie, so I'm goalie by default.",
+      "practice": "You won a game because the other player went home. Explain it to your teacher.",
+      "toneCards": [
+        {
+          "emoji": "👑",
+          "tone": "Bossy, like Candace",
+          "situation": "Mom goes out. \"I'm the oldest, so I'm in charge… by default. Carry on.\""
+        },
+        {
+          "emoji": "😅",
+          "tone": "Modest",
+          "situation": "You won the race because you were the only runner. \"I won by default.\""
+        }
+      ]
+    },
+    {
+      "n": 36,
+      "id": "get-right-on-it",
+      "story": "gnome",
+      "type": "Idiom",
+      "phrase": "Get right on it!",
+      "clips": [
+        {
+          "start": "12:46",
+          "end": "12:50",
+          "lines": [
+            [
+              "Major Monogram",
+              "We suspect Doofenshmirtz. Get right on it."
+            ]
+          ],
+          "hl": "Get right on it"
+        }
+      ],
+      "meaning": "\"Start doing this right now!\" A boss gives an order. Or someone promises: \"I'll get right on it.\"",
+      "example": "\"Can you clean your room?\" \"I'll get right on it!\"",
+      "practice": "Your teacher asks you to read a page. Promise to start now.",
+      "toneCards": [
+        {
+          "emoji": "🫡",
+          "tone": "Eager helper",
+          "situation": "Mom asks you to set the table."
+        },
+        {
+          "emoji": "😏",
+          "tone": "Not really going to (sarcastic)",
+          "situation": "\"Clean your room!\" \"Sure… I'll get right on it,\" you say, still lying on the sofa.",
+          "note": "Slow voice. You won't."
+        }
+      ]
+    },
+    {
+      "n": 37,
+      "id": "trumps-any-day",
+      "story": "gnome",
+      "type": "Useful phrase",
+      "phrase": "___ trumps ___ any day.",
+      "clips": [
+        {
+          "start": "13:13",
+          "end": "13:21",
+          "lines": [
+            [
+              "Candace",
+              "I don't care if they're lab partners! We're locker neighbors. And locker neighbors trumps lab partners any day."
+            ],
+            [
+              "Candace",
+              "Sorry, Stacy. Gotta go."
+            ]
+          ],
+          "hl": "trumps lab partners any day"
+        }
+      ],
+      "meaning": "\"Trumps\" = beats, is more important than. \"Any day\" = always, no question. Candace is arguing about which friend matters more.",
+      "listen": "\"Gotta go\" = I have to go. Very common way to end a phone call fast.",
+      "example": "Pizza trumps salad any day.",
+      "practice": "Tell your teacher which is better: summer or winter. Use \"any day\".",
+      "toneCards": [
+        {
+          "emoji": "😤",
+          "tone": "Arguing hard, like Candace",
+          "situation": "You and a friend argue about which superhero is best."
+        },
+        {
+          "emoji": "😋",
+          "tone": "Happy and sure",
+          "situation": "\"Ice cream or broccoli?\" \"Ice cream trumps broccoli any day!\""
+        }
+      ]
+    },
+    {
+      "n": 38,
+      "id": "you-call-that",
+      "story": "gnome",
+      "type": "Tone changes meaning",
+      "phrase": "You call that a ___?",
+      "clips": [
+        {
+          "start": "13:21",
+          "end": "13:32",
+          "lines": [
+            [
+              "Phineas",
+              "Welcome to our beach."
+            ],
+            [
+              "Candace",
+              "Hah! You call that a beach? This is WAY below your usual standard. This isn't even worth a call to Mom."
+            ]
+          ],
+          "hl": "You call that a beach?"
+        }
+      ],
+      "meaning": "\"That's not a real ___!\" It's a teasing put-down. Candace thinks it's just a sandbox, so it isn't even worth telling Mom.",
+      "listen": "\"WAY below\" is stressed. Way = very much.",
+      "example": "You call that a sandcastle? Watch this!",
+      "practice": "Your friend draws a tiny dog. Tease them, then say something nice.",
+      "toneCards": [
+        {
+          "emoji": "😏",
+          "tone": "Teasing",
+          "situation": "Your friend shows you a tiny snowman."
+        },
+        {
+          "emoji": "😠",
+          "tone": "Mean (careful!)",
+          "situation": "Someone shows you their drawing. \"You call that art?\"",
+          "note": "This hurts feelings. Don't say it about real effort."
+        },
+        {
+          "emoji": "😂",
+          "tone": "Joking about yourself",
+          "situation": "You hold up your burnt toast. \"You call this breakfast?\""
+        }
+      ]
+    },
+    {
+      "n": 39,
+      "id": "gonna-have-to",
+      "story": "gnome",
+      "type": "Useful phrase",
+      "phrase": "If you ever want to ___, you're gonna have to ___.",
+      "clips": [
+        {
+          "start": "13:31",
+          "end": "13:39",
+          "lines": [
+            [
+              "Candace",
+              "You know, if you guys ever want to be popular, you're gonna have to stop playing in sandboxes."
+            ]
+          ],
+          "hl": "you're gonna have to"
+        }
+      ],
+      "meaning": "Bossy big-sister advice: \"If you want X, you must do Y.\"",
+      "listen": "Then a beach ball hits her. Know-it-alls get what's coming in cartoons.",
+      "example": "If you ever want to be a chef, you're gonna have to try new foods.",
+      "practice": "Give your teacher some advice about learning to skateboard.",
+      "toneCards": [
+        {
+          "emoji": "🙄",
+          "tone": "Know-it-all, like Candace",
+          "situation": "Tell your little brother how to be cool."
+        },
+        {
+          "emoji": "🤝",
+          "tone": "Helpful coach",
+          "situation": "Your friend wants to swim faster. \"You're gonna have to practice every day.\""
+        }
+      ]
+    },
+    {
+      "n": 40,
+      "id": "start-labeling",
+      "story": "gnome",
+      "type": "Useful phrase",
+      "phrase": "I've got to start ___ing.",
+      "clips": [
+        {
+          "start": "14:20",
+          "end": "14:32",
+          "lines": [
+            [
+              "Doofenshmirtz",
+              "Oh no, wait, wait, wait. That was the garage door opener. You are mine now! And that was the TV remote. I've got to start labeling these things."
+            ]
+          ],
+          "hl": "I've got to start labeling these things"
+        }
+      ],
+      "meaning": "\"I need to begin doing this from now on.\" You say it after a mistake shows you need a new habit.",
+      "tone": "\"You are mine now!\" is supposed to be scary, but he keeps pressing the wrong button. It gets funnier each time.",
+      "example": "I lost my keys again. I've got to start using a key hook.",
+      "practice": "You keep forgetting your water bottle at school. Say what you'll do from now on.",
+      "toneCards": [
+        {
+          "emoji": "😑",
+          "tone": "Annoyed at yourself",
+          "situation": "You put salt in your tea instead of sugar."
+        },
+        {
+          "emoji": "😂",
+          "tone": "Laughing it off",
+          "situation": "You wear two different shoes to school."
+        }
+      ]
+    },
+    {
+      "n": 41,
+      "id": "see-our-house",
+      "story": "gnome",
+      "type": "Joke pattern",
+      "phrase": "I can see our house from up here!",
+      "clips": [
+        {
+          "start": "15:04",
+          "end": "15:13",
+          "lines": [
+            [
+              "Phineas",
+              "Hey, look! I can see our house from up here!"
+            ]
+          ],
+          "hl": "I can see our house from up here!"
+        }
+      ],
+      "meaning": "A classic joke line people say when they're very high up. Here it's funny because the house is right next to the beach.",
+      "example": "We're on the top of the Ferris wheel. I can see our house from up here!",
+      "practice": "You're on the top bunk bed. Make the joke.",
+      "toneCards": [
+        {
+          "emoji": "🤩",
+          "tone": "Amazed",
+          "situation": "You're at the top of a tall tower."
+        },
+        {
+          "emoji": "😂",
+          "tone": "Silly joke",
+          "situation": "You stand on a chair. \"Whoa! I can see our house from up here!\"",
+          "note": "It's funny because it isn't high at all."
+        }
+      ]
+    },
+    {
+      "n": 42,
+      "id": "something-very-wrong",
+      "story": "gnome",
+      "type": "Tone changes meaning",
+      "phrase": "Something is very wrong.",
+      "clips": [
+        {
+          "start": "16:27",
+          "end": "16:38",
+          "lines": [
+            [
+              "Candace",
+              "I've never been happier in my entire life!"
+            ],
+            [
+              "Linda",
+              "Something is very wrong. Not a single call from Candace. Not even a text message."
+            ]
+          ],
+          "hl": "Something is very wrong."
+        }
+      ],
+      "meaning": "The joke: Mom is worried because things are quiet. Candace calls all the time, so no calls means something is up. \"Not a single ___, not even a ___\" = nothing at all.",
+      "listen": "Right before, Candace says \"I've never been happier in my entire life!\" Happy and worried, back to back.",
+      "example": "Not a single sound from the kids. Not even a giggle. Something is very wrong.",
+      "practice": "Your noisy dog is totally quiet. Tell your teacher why you're worried.",
+      "toneCards": [
+        {
+          "emoji": "🕵️",
+          "tone": "Suspicious",
+          "situation": "Your little brother has been quiet in his room for an hour."
+        },
+        {
+          "emoji": "😱",
+          "tone": "Truly scared",
+          "situation": "You smell smoke in the kitchen.",
+          "note": "Fast and serious."
+        }
+      ]
+    },
+    {
+      "n": 43,
+      "id": "neighbor-kenny",
+      "story": "gnome",
+      "type": "Joke pattern",
+      "phrase": "My only companion was the moon… and my neighbor Kenny.",
+      "clips": [
+        {
+          "start": "17:20",
+          "end": "17:25",
+          "lines": [
+            [
+              "Doofenshmirtz",
+              "My only companion was the moon. And my neighbor Kenny."
+            ]
+          ],
+          "hl": "And my neighbor Kenny"
+        }
+      ],
+      "meaning": "A sad, dramatic sentence, then a normal, silly ending. This is called an anticlimax. \"Companion\" = friend who keeps you company.",
+      "example": "My only friend at camp was a frog… and my cousin Ben.",
+      "practice": "Tell a sad, dramatic story about waiting at the doctor's, then add a silly ending.",
+      "toneCards": [
+        {
+          "emoji": "🎭",
+          "tone": "Dramatic, then flat",
+          "situation": "Tell your family about a \"terrible\" day with no dessert."
+        },
+        {
+          "emoji": "😂",
+          "tone": "Comic timing",
+          "situation": "Pause a long time before the silly part.",
+          "note": "The pause makes the joke."
+        }
+      ]
+    },
+    {
+      "n": 44,
+      "id": "missed-the-sign",
+      "story": "gnome",
+      "type": "Tone changes meaning",
+      "phrase": "Perhaps you missed the sign.",
+      "clips": [
+        {
+          "start": "17:45",
+          "end": "17:54",
+          "lines": [
+            [
+              "Radio DJ",
+              "Surf contest!"
+            ],
+            [
+              "Buford",
+              "Out of my way, Dinner-bell."
+            ],
+            [
+              "Phineas",
+              "Hello, Buford. Perhaps you missed the sign."
+            ]
+          ],
+          "hl": "Perhaps you missed the sign."
+        }
+      ],
+      "meaning": "Polite words with a sharp meaning: \"There's a rule. Follow it.\" \"Out of my way\" = move (rude).",
+      "tone": "\"Perhaps\" sounds polite, but Phineas is standing up to a bully.",
+      "listen": "\"Dinner-bell\" is Buford's mean nickname for a girl in Isabella's troop.",
+      "example": "Perhaps you missed the sign. No dogs allowed.",
+      "practice": "Someone is running by the pool. Remind them of the rule, politely but firmly.",
+      "toneCards": [
+        {
+          "emoji": "🧐",
+          "tone": "Calm and firm, like Phineas",
+          "situation": "Someone cuts in line at the water fountain."
+        },
+        {
+          "emoji": "😠",
+          "tone": "Rude (careful!)",
+          "situation": "\"Out of my way!\" to someone in the hallway.",
+          "note": "Say \"Excuse me\" instead."
+        }
+      ]
+    },
+    {
+      "n": 45,
+      "id": "any-more-than-you-do",
+      "story": "gnome",
+      "type": "Useful phrase",
+      "phrase": "I don't like this any more than you do.",
+      "clips": [
+        {
+          "start": "17:53",
+          "end": "17:58",
+          "lines": [
+            [
+              "Buford",
+              "\"No Bullying, No Yodeling\"?"
+            ],
+            [
+              "Yodeler",
+              "I don't like this any more than you do."
+            ]
+          ],
+          "hl": "any more than you do"
+        }
+      ],
+      "meaning": "\"I don't like it either. We're both stuck with it.\" The joke: the sign stops yodeling too, so the yodeler is sad.",
+      "listen": "He speaks with a funny mountain accent, because yodeling is a kind of mountain singing.",
+      "example": "I don't like the rain any more than you do, but we need to walk.",
+      "practice": "Your friend complains about a long car ride. Say you feel the same.",
+      "toneCards": [
+        {
+          "emoji": "🤝",
+          "tone": "Sharing the pain",
+          "situation": "You and your brother both have to do chores."
+        },
+        {
+          "emoji": "😤",
+          "tone": "Firm",
+          "situation": "Your little sister complains about bedtime. \"I don't like it any more than you do, but rules are rules.\""
+        }
+      ]
+    },
+    {
+      "n": 46,
+      "id": "eats-it",
+      "story": "gnome",
+      "type": "Slang",
+      "phrase": "eats it",
+      "clips": [
+        {
+          "start": "17:57",
+          "end": "18:03",
+          "lines": [
+            [
+              "Radio DJ",
+              "First up in the surf contest is Bobby Nelson. Oh! And Nelson eats it on the five-footer!"
+            ]
+          ],
+          "hl": "eats it"
+        }
+      ],
+      "meaning": "\"Eat it\" = fall or crash badly, especially on a board or bike. \"A five-footer\" = a wave five feet tall.",
+      "example": "I tried a skateboard trick and totally ate it.",
+      "practice": "Tell your teacher about a time you fell off something.",
+      "toneCards": [
+        {
+          "emoji": "😂",
+          "tone": "Laughing with a friend",
+          "situation": "Your friend slips on the ice, but they're fine."
+        },
+        {
+          "emoji": "😟",
+          "tone": "Careful (could be mean)",
+          "situation": "Someone gets hurt falling. Don't laugh. Ask: \"Are you OK?\""
+        }
+      ]
+    },
+    {
+      "n": 47,
+      "id": "kids-today",
+      "story": "gnome",
+      "type": "Joke pattern",
+      "phrase": "Those kids today and their ___.",
+      "clips": [
+        {
+          "start": "18:22",
+          "end": "18:28",
+          "lines": [
+            [
+              "Radio DJ",
+              "Uh-oh, what's this? Oh, those kids today and their holographic projections."
+            ]
+          ],
+          "hl": "those kids today"
+        }
+      ],
+      "meaning": "What grumpy old people say about young people's new stuff. The joke: Phineas used a hologram (a 3-D light picture) to dodge the bully.",
+      "example": "Those kids today and their video games!",
+      "practice": "Pretend to be a grumpy grandparent talking about phones.",
+      "toneCards": [
+        {
+          "emoji": "👴",
+          "tone": "Grumpy old voice",
+          "situation": "Complain about kids and their scooters."
+        },
+        {
+          "emoji": "😄",
+          "tone": "Joking about yourself",
+          "situation": "Your dad can't work the TV. You say, \"Those kids today and their remotes!\""
+        }
+      ]
+    },
+    {
+      "n": 48,
+      "id": "just-hanging",
+      "story": "gnome",
+      "type": "Joke pattern",
+      "phrase": "Now he's just hangin'!",
+      "clips": [
+        {
+          "start": "18:27",
+          "end": "18:35",
+          "lines": [
+            [
+              "Radio DJ",
+              "He's in the pipeline, now he's hangin' ten! He's hanging twenty! He's hangin' thirty-two! Now he's just hangin'! The crowd loves it!"
+            ]
+          ],
+          "hl": "Now he's just hangin'!"
+        }
+      ],
+      "meaning": "\"Hang ten\" = a surf move with all ten toes over the board's edge. The numbers get silly. Then \"just hangin'\" also means \"just chilling, relaxing\".",
+      "example": "\"What are you doing?\" \"Nothing, just hangin'.\"",
+      "practice": "Your teacher asks what you did on Saturday. Say you relaxed, the slang way.",
+      "toneCards": [
+        {
+          "emoji": "😎",
+          "tone": "Chill",
+          "situation": "A friend texts \"What's up?\" You answer \"Just hangin'.\""
+        },
+        {
+          "emoji": "🏄",
+          "tone": "Excited sports talk",
+          "situation": "Pretend to be a surf announcer."
+        }
+      ]
+    },
+    {
+      "n": 49,
+      "id": "cowabunga",
+      "story": "gnome",
+      "type": "Slang",
+      "phrase": "Cowabunga!",
+      "clips": [
+        {
+          "start": "18:44",
+          "end": "18:55",
+          "lines": [
+            [
+              "Radio DJ",
+              "It seems Phineas Flynn's radical surfing has made judge #3 re-think Einstein's theory of relativity! Cowabunga, laws of nature!"
+            ]
+          ],
+          "hl": "Cowabunga"
+        }
+      ],
+      "meaning": "\"Cowabunga!\" = an old surfer shout of joy. \"Radical\" = awesome (old surf slang). The joke: his surfing breaks the rules of science.",
+      "example": "Cowabunga! Let's jump in the pool!",
+      "practice": "You're about to jump into a big pile of leaves. Shout it.",
+      "toneCards": [
+        {
+          "emoji": "🏄",
+          "tone": "Wild and happy",
+          "situation": "You jump into the swimming pool."
+        },
+        {
+          "emoji": "😂",
+          "tone": "Old-fashioned joke",
+          "situation": "Dad says \"Cowabunga!\" and you groan."
+        }
+      ]
+    },
+    {
+      "n": 50,
+      "id": "around-the-corner",
+      "story": "gnome",
+      "type": "Useful phrase",
+      "phrase": "right around the corner",
+      "clips": [
+        {
+          "start": "19:24",
+          "end": "19:34",
+          "lines": [
+            [
+              "Linda",
+              "Candace, honey, I'm coming home."
+            ],
+            [
+              "Candace",
+              "Wait, what?!"
+            ],
+            [
+              "Linda",
+              "I'm right around the corner; I'll be there in two minutes."
+            ],
+            [
+              "Candace",
+              "Wait! No mom, you can't!"
+            ]
+          ],
+          "hl": "right around the corner"
+        }
+      ],
+      "meaning": "\"Very close by.\" It can also mean \"coming very soon\": \"Summer is right around the corner.\"",
+      "listen": "\"Wait, what?!\" jumps up high. That's shock.",
+      "example": "Wait for me. I'm right around the corner!",
+      "practice": "Tell your teacher that your birthday is coming soon.",
+      "toneCards": [
+        {
+          "emoji": "📞",
+          "tone": "Helpful",
+          "situation": "Call your friend: you're almost at their house."
+        },
+        {
+          "emoji": "🎉",
+          "tone": "Excited about time",
+          "situation": "\"The holidays are right around the corner!\""
+        },
+        {
+          "emoji": "😱",
+          "tone": "Panic, like Candace",
+          "situation": "Mom is right around the corner and your room is a mess."
+        }
+      ]
+    },
+    {
+      "n": 51,
+      "id": "gnome-ageddon",
+      "story": "gnome",
+      "type": "Joke pattern",
+      "phrase": "Run for your lives! It's gnome-ageddon!",
+      "clips": [
+        {
+          "start": "20:00",
+          "end": "20:06",
+          "lines": [
+            [
+              "Man",
+              "Run for your lives!! It's gnome-ageddon!!!"
+            ],
+            [
+              "Man #2",
+              "Who's protecting our gardens?!!"
+            ]
+          ],
+          "hl": "gnome-ageddon"
+        }
+      ],
+      "meaning": "\"Run for your lives!\" = a silly panic shout. \"Armageddon\" = the end of the world. Add \"gnome\" and you get a gnome disaster.",
+      "example": "Run for your lives! It's the tickle monster!",
+      "practice": "Your little brother is chasing everyone with a water gun. Shout a warning.",
+      "toneCards": [
+        {
+          "emoji": "😱",
+          "tone": "Fake panic (playful)",
+          "situation": "Your dad is coming with a tickle attack."
+        },
+        {
+          "emoji": "😂",
+          "tone": "Made-up word",
+          "situation": "Your room is full of Lego. \"It's Lego-geddon!\""
+        }
+      ]
+    },
+    {
+      "n": 52,
+      "id": "tell-me-the-truth",
+      "story": "gnome",
+      "type": "Tone changes meaning",
+      "phrase": "Tell me the truth. What is going on here?",
+      "clips": [
+        {
+          "start": "20:05",
+          "end": "20:11",
+          "lines": [
+            [
+              "Linda",
+              "Candace, tell me the truth. What is going on here?"
+            ]
+          ],
+          "hl": "tell me the truth"
+        }
+      ],
+      "meaning": "A parent's serious question. It means \"Don't make up a story.\"",
+      "example": "Tell me the truth. Did you eat my cookie?",
+      "practice": "Your toy is broken and your brother looks guilty. Ask him.",
+      "toneCards": [
+        {
+          "emoji": "😐",
+          "tone": "Serious parent",
+          "situation": "Find paint all over the bathroom."
+        },
+        {
+          "emoji": "🥺",
+          "tone": "Worried",
+          "situation": "Your friend looks sad but says \"I'm fine.\"",
+          "note": "Soft voice."
+        }
+      ]
+    },
+    {
+      "n": 53,
+      "id": "turned-out-to-be",
+      "story": "gnome",
+      "type": "Phrasal verb",
+      "phrase": "just like they said… it turned out to be…",
+      "clips": [
+        {
+          "start": "20:10",
+          "end": "20:22",
+          "lines": [
+            [
+              "Candace",
+              "Phineas and Ferb built a beach in the backyard, just like they said they were going to. But instead of just a cute little beach in their sandbox; it turned out to be this absolutely huge beach, with a coastline, and palm trees, and a pier…"
+            ]
+          ],
+          "hl": "just like they said they were going to"
+        }
+      ],
+      "plain": [
+        "\"just like they said they were going to\" is missing the end.",
+        "Full: \"just like they said they were going to (build one).\"",
+        "English often drops the end when it's obvious."
+      ],
+      "meaning": "\"Turn out to be\" = end up being (often a surprise). Candace talks super fast, listing everything in one breath.",
+      "example": "The test turned out to be easy.",
+      "practice": "Tell your teacher about something that turned out better than you expected.",
+      "toneCards": [
+        {
+          "emoji": "😮",
+          "tone": "Surprised",
+          "situation": "The scary movie turned out to be funny."
+        },
+        {
+          "emoji": "🏃",
+          "tone": "Super fast, like Candace",
+          "situation": "Tell your whole day in one breath: \"And then, and then, and then…\""
+        }
+      ]
+    },
+    {
+      "n": 54,
+      "id": "under-the-noses",
+      "story": "gnome",
+      "type": "Idiom",
+      "phrase": "from under the noses of…",
+      "clips": [
+        {
+          "start": "20:41",
+          "end": "20:50",
+          "lines": [
+            [
+              "Candace",
+              "…and just for a moment, it seemed that the wily Buford would steal away the coveted surfing trophy from under the noses of our heroes…"
+            ]
+          ],
+          "hl": "from under the noses of"
+        }
+      ],
+      "meaning": "\"Under someone's nose\" = right in front of them, but they don't notice. \"Wily\" = sneaky. \"Coveted\" = that everyone wants.",
+      "listen": "Candace is now talking like a TV sports announcer. The water is draining away behind her.",
+      "example": "The cat stole the fish right from under our noses!",
+      "practice": "Your brother took the last cookie while you were looking. Tell your teacher.",
+      "toneCards": [
+        {
+          "emoji": "🎙️",
+          "tone": "Dramatic storyteller, like Candace",
+          "situation": "Tell your friend about the soccer game like a sports announcer."
+        },
+        {
+          "emoji": "😠",
+          "tone": "Annoyed",
+          "situation": "Someone took your seat right under your nose."
+        }
+      ]
+    },
+    {
+      "n": 55,
+      "id": "let-me-have-my-moment",
+      "story": "gnome",
+      "type": "Useful phrase",
+      "phrase": "Just let me have my moment!",
+      "clips": [
+        {
+          "start": "20:49",
+          "end": "20:59",
+          "lines": [
+            [
+              "Candace",
+              "…then I can only continue my benign reign and spread love, happiness and ultimate popularity throughout my kingdom! If you would just let me have my moment!"
+            ]
+          ],
+          "hl": "let me have my moment"
+        }
+      ],
+      "meaning": "\"Let me enjoy this special time, please!\" You say it when someone interrupts your happy moment. \"Benign reign\" = kind rule, like a nice queen.",
+      "example": "I finally won! Let me have my moment!",
+      "practice": "You scored a goal and your friend is already talking about something else.",
+      "toneCards": [
+        {
+          "emoji": "😤",
+          "tone": "Frustrated, like Candace",
+          "situation": "Your brother interrupts your birthday wish."
+        },
+        {
+          "emoji": "😂",
+          "tone": "Joking",
+          "situation": "You did one push-up and pose like a champion."
+        }
+      ]
+    },
+    {
+      "n": 56,
+      "id": "she-had-fun",
+      "story": "gnome",
+      "type": "Tone changes meaning",
+      "phrase": "I think she had fun.",
+      "clips": [
+        {
+          "start": "21:30",
+          "end": "21:36",
+          "lines": [
+            [
+              "Linda",
+              "Candace, honey, I think it's time to get you out of the sun for a little while."
+            ],
+            [
+              "Phineas",
+              "I think she had fun."
+            ]
+          ],
+          "hl": "I think she had fun."
+        }
+      ],
+      "meaning": "Phineas says it calmly while Candace is being led away, upset. It's an understatement, a big feeling said in small words. \"Get you out of the sun\" = Mom thinks Candace is acting strange from the heat.",
+      "example": "My brother cried and laughed at the movie. I think he liked it.",
+      "practice": "Your friend screamed all the way down the water slide. Comment on it.",
+      "toneCards": [
+        {
+          "emoji": "😌",
+          "tone": "Deadpan",
+          "situation": "Your little sister fell asleep in her cake at the party. \"I think she had fun.\""
+        },
+        {
+          "emoji": "😊",
+          "tone": "Really meaning it",
+          "situation": "Your grandma danced all night at the wedding."
+        }
+      ]
+    },
+    {
+      "n": 57,
+      "id": "scorcher",
+      "story": "gnome",
+      "type": "Slang",
+      "phrase": "another scorcher",
+      "clips": [
+        {
+          "start": "21:50",
+          "end": "21:59",
+          "lines": [
+            [
+              "Radio DJ",
+              "And speaking of hot, slather on the sunscreen listeners, 'cause tomorrow's weather calls for another scorcher."
+            ],
+            [
+              "Ferb",
+              "With a slight chance of scattered lawn gnomes."
+            ]
+          ],
+          "hl": "another scorcher"
+        }
+      ],
+      "meaning": "\"A scorcher\" = a very hot day. \"Calls for\" = says will happen. Ferb finishes in weather-report words, but it's raining gnomes.",
+      "listen": "\"Speaking of ___\" = changing the topic using a word just said.",
+      "example": "Wear a hat. Today's going to be a scorcher.",
+      "practice": "Tell your teacher what the weather will be like tomorrow, weather-report style.",
+      "toneCards": [
+        {
+          "emoji": "☀️",
+          "tone": "Weather reporter",
+          "situation": "Give tomorrow's weather like you're on the radio."
+        },
+        {
+          "emoji": "😂",
+          "tone": "Joke ending, like Ferb",
+          "situation": "\"Tomorrow: sunny, with a slight chance of… homework.\""
+        }
+      ]
+    },
+    {
+      "n": 58,
+      "id": "mad-skill",
+      "story": "gnome",
+      "type": "Slang (Sung)",
+      "phrase": "mad skill(s)",
+      "clips": [
+        {
+          "start": "22:11",
+          "end": "22:19",
+          "lines": [
+            [
+              "Song",
+              "He's got more than just mad skill, he's got a beaver tail and a bill!"
+            ]
+          ],
+          "hl": "mad skill"
+        }
+      ],
+      "meaning": "\"Mad skills\" = amazing skills. \"Mad\" here means very, not angry. Usually people say \"mad skills\".",
+      "tone": "Sung, so use it for meaning, not pronunciation.",
+      "example": "Did you see her dribble the ball? She's got mad skills!",
+      "practice": "Tell your teacher about someone who's amazing at something.",
+      "toneCards": [
+        {
+          "emoji": "🤩",
+          "tone": "Impressed",
+          "situation": "Your friend solves a puzzle cube super fast."
+        },
+        {
+          "emoji": "😏",
+          "tone": "Showing off (jokey)",
+          "situation": "You flip a pancake. \"Mad skills!\""
+        }
+      ]
+    }
+  ]
+}
